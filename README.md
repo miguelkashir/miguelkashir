@@ -1,8 +1,10 @@
 ## Hi there 👋 
 I'm Miguel, nice to meet you.
 
-I’m the kind of person who loves solving problems through creative, detail-focused solutions. I approach each project with care and precision, always striving to make a positive impact.
+Check my resume online: https://miguelkashir.github.io/portfolio/
 
-Apart from programming, I enjoy a wide range of interests— Exploring new places, motorsports, gym, music, good coffee and gaming.
+I'm a software engineer with a product mindset — I care about solving the right problem, not just closing tickets. I write clean, maintainable code, sweat the details, and adapt to whatever the project needs, whether that's a new stack, a new paradigm, or a hard conversation about scope.
 
-Specialties: React, MobX, TypeScript & JavaScript, Styled Components, Cypress, HTML & CSS.
+I thrive as an individual contributor. Owning a problem end-to-end — from first principles to shipped feature — is where I do my best work. In a world where AI makes individual developers disproportionately capable, I find that genuinely exciting. Outside of code, I stay curious through travel, motorsports, music, and the occasional video game.
+
+Specialties: React, JavaScript, TypeScript, MobX, HTML, CSS, Styled Components, React Testing Library, Cypress.
